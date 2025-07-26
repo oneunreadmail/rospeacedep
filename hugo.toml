@@ -1,0 +1,8 @@
+baseURL = 'https://ro.speace.de/p/'
+languageCode = 'ru'
+title = 'Депутаты Мирной России'
+theme = 'ananke'
+
+[params]
+  telegram = "https://t.me/fake_telegram_channel"
+  feedback_bot = "https://t.me/mundep_feedback_bot"
