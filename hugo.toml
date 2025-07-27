@@ -1,6 +1,6 @@
 baseURL = 'https://ro.speace.de/p/'
 languageCode = 'ru'
-title = 'Депутаты Мирной России'
+title = 'Официальный сайт организации «Депутаты Мирной России»'
 theme = 'ananke'
 
 [params]
