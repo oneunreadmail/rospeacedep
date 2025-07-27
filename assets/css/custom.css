@@ -1,0 +1,13 @@
+.site-header {
+  
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 5rem 0;
+  text-align: center;
+}
+
+.site-header .site-title {
+  font-size: 3rem;
+  font-weight: bold;
+}

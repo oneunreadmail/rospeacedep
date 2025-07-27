@@ -4,5 +4,5 @@ title = 'Депутаты Мирной России'
 theme = 'ananke'
 
 [params]
-  telegram = "https://t.me/fake_telegram_channel"
+  telegram = "https://t.me/mir_dep"
   feedback_bot = "https://t.me/mundep_feedback_bot"
