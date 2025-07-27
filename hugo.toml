@@ -4,6 +4,6 @@ title = 'Официальный сайт организации «Депутат
 theme = 'ananke'
 
 [params]
-  css = ["css/custom.css"]
+  custom_css = ["custom.css"]
   telegram = "https://t.me/mir_dep"
   feedback_bot = "https://t.me/mundep_feedback_bot"
