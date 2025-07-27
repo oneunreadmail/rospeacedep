@@ -1,2 +1,2 @@
 {{ $style := resources.Get "ananke/css/custom.css" | resources.Minify | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ $style.Permalink }}">
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
